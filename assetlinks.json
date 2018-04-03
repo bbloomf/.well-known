@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.bbloomf.jgabc",
+    "Sha256_cert_fingerprints": ["A5:D9:5A:DD:E3:0F:23:0F:8B:8E:E0:DC:EE:83:FC:12:BF:95:AA:EC:74:A2:6F:01:97:16:7D:60:8E:BC:D8:CC"]
+  }
+}]
